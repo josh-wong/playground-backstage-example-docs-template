@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://josh-wong.github.io/&lt;SLUG URL&gt;/</loc>
+         <lastmod>2022-07-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://josh-wong.github.io/&lt;SLUG URL&gt;/01_getting_started/</loc>
+         <lastmod>2022-07-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://josh-wong.github.io/&lt;SLUG URL&gt;/02_%5Bgerund%5D_%5Btopic%5D/</loc>
+         <lastmod>2022-07-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://josh-wong.github.io/&lt;SLUG URL&gt;/03_conclusion/</loc>
+         <lastmod>2022-07-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://josh-wong.github.io/&lt;SLUG URL&gt;/04_references/</loc>
+         <lastmod>2022-07-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://josh-wong.github.io/&lt;SLUG URL&gt;/05_contributions/</loc>
+         <lastmod>2022-07-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+</urlset>
