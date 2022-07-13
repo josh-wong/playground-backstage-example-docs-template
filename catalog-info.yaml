@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "playground-backstage-example-docs-template"
+  tags:
+    - markdown
+spec:
+  type: docs
+  lifecycle: production
+  owner: josh-wong
